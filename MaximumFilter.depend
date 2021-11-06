@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1549506424 source:c:\users\israel\documents\c-imageprocesing\maximumfilter\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1549507307 source:c:\users\israel\documents\c-imageprocesing\medianfilter\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1549507531 source:c:\users\vinoth\onedrive\desktop\6.1 medianfilter\medianfilter\main.c
+	<stdio.h>
+	<stdlib.h>
+
